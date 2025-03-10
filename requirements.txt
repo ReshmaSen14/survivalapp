@@ -1,10 +1,7 @@
 matplotlib==3.8.0
-numpy
 pandas
 streamlit
 lifelines
 openpyxl
+numpy
 scipy
-pillow
-pyparsing
-cycler
