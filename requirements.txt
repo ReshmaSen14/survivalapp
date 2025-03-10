@@ -1,0 +1,7 @@
+matplotlib==3.7.1
+pandas
+streamlit
+lifelines
+openpyxl
+numpy
+scipy
